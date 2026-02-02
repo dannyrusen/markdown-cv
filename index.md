@@ -1,91 +1,40 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Danny Rusén's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Danny Rusén
+Systems Developer | Programmer | Technical Consultant  
+
+Currently living in Auckland, New Zealand<br/>
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+  <a href="https://dannyrusen.github.io"><i class="fa-solid fa-house"></i> dannyrusen.github.io</a> - 
+  <a href="https://github.com/dannyrusen"><i class="fa-brands fa-github"></i> dannyrusen</a> - 
+  <a href="https://www.linkedin.com/in/dannyrusen/"><i class="fa-brands fa-linkedin"></i> dannyrusen</a> - 
 </div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2000-2004`
+**Computer Engineering**, *Mälardalen University*, Västerås, Sweden.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+## Work Experience
 
-- Sizar
+`2018-Dec 2025`
+**Arkido AB**, *Senior Consultant, Tech-lead at GS-facket*, Stockholm, Sweden.
+Handling backend systems, data pipelines, devops, and integrations for a Swedish union's digital services. Tech-lead for a team of developers. Building and maintaining web, intranet and CRM systems using technologies such as .NET, JavaScript, Rest-Api, GraphQl, Docker, SQL, ElasticSearch, and more.
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2010-2018`
+**Valtech **, *Techical Consultant*, Stockholm, Sweden.
+Working as a backend systems developer and technical consultant for various clients, including Svensk Fastighetsförmedling, Nobina, and others. Involved in building web applications and digital solutions using technologies such as .NET, JavaScript, SQL, and cloud services.
 
-- Fellow
+`2008-2010`
+**PocketMobile Communications**, *Mobile Application Developer*, Stockholm, Sweden.
+Developed mobile applications for businesses. Worked on projects involving mobile user interfaces, backend integration
 
+`2004-2008`
+**ABB Robotics**, *Programmer and tester*, Västerås, Sweden.
+Developed and tested software for industrial robots. Worked on programming robot controllers and ensuring software quality.
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+## Skills
+Data Migration, Solutioning, Microsoft Technology Stack, HTML5, C# Programming, jQuery, Web API, ASP.Net, Field Service, Technical Design, Agile Methodologies, Technical Aptitude, Microsoft Dynamics CRM, JavaScript Programming, Graphql, Rabbitmq Software, Elasticsearch Software, Python Programming, Rabbitmq Software,Episerver CMS, SQL Query Language, Docker Software, Github, Git Version Control System, Microsoft Team Foundation Server, Microsoft Visual SourceSafe, Robotics Systems, API, Rest API, Bootstrap, Microservices, CI/CD, Database Systems, Oauth 2.0, DevOps, Neo4j, Microsoft Azure Active Directory, Software Development, Web Applications, Deployment, Business Requirements, Solutions Design, Back End Development, Microsoft Azure, Azure App Services, Microsoft Azure DevOps, Microsoft Azure
