@@ -10,7 +10,7 @@ Currently living in Auckland, New Zealand<br/>
 <div id="webaddress">
   <a href="https://dannyrusen.github.io"><i class="fa-solid fa-house"></i> dannyrusen.github.io</a> - 
   <a href="https://github.com/dannyrusen"><i class="fa-brands fa-github"></i> dannyrusen</a> - 
-  <a href="https://www.linkedin.com/in/dannyrusen/"><i class="fa-brands fa-linkedin"></i> dannyrusen</a> - 
+  <a href="https://www.linkedin.com/in/dannyrusen/"><i class="fa-brands fa-linkedin"></i> dannyrusen</a>
 </div>
 
 ## Education
