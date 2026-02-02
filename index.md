@@ -25,7 +25,7 @@ Currently living in Auckland, New Zealand<br/>
 Handling backend systems, data pipelines, devops, and integrations for a Swedish union's digital services. Tech-lead for a team of developers. Building and maintaining web, intranet and CRM systems using technologies such as .NET, JavaScript, Rest-Api, GraphQl, Docker, SQL, ElasticSearch, and more.
 
 `2010-2018`
-**Valtech **, *Techical Consultant*, Stockholm, Sweden.
+**Valtech**, *Techical Consultant*, Stockholm, Sweden.
 Working as a backend systems developer and technical consultant for various clients, including Svensk Fastighetsförmedling, Nobina, and others. Involved in building web applications and digital solutions using technologies such as .NET, JavaScript, SQL, and cloud services.
 
 `2008-2010`
