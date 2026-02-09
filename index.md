@@ -20,7 +20,7 @@ Currently living in Auckland, New Zealand<br/>
 
 ## Work Experience
 
-`2018–December 2025`
+`2018–Dec 2025`
 **Arkido AB**, _Senior Consultant, Tech Lead at GS-facket_, Stockholm, Sweden  
 During a long-term consulting engagement, I was responsible for handling most aspects of the digital infrastructure for a major Swedish trade union. My role involved migrating an outdated CRM system to a custom-built solution based on modern architecture. I developed both REST and GraphQL APIs, designed and maintained event-driven data pipelines using RabbitMQ, and built a Single Sign-On solution incorporating both OAUTH2 and SAML protocols. My responsibilities also included managing numerous integrations, ranging from traditional bank payments to contemporary digital payment systems, practicing DevOps methodologies with GitHub and containerization technology, and contributing to the development of external web services and the internal intranet.
 
